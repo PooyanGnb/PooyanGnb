@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PooyanGnb
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning Python!
-- 📫 How to reach me pooyanghanbari13@gmail.com
+- 👋 Hi, I’m Pooyan Ghanbari
+- 👀 I’m absorbed in Python and currently learning Python and MySQL
+- 🌱 I’m also interested in ML and AI too
+- 📫 How to reach me pnghanbari@gmail.com
+
 
 <!---
 PooyanGnb/PooyanGnb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
