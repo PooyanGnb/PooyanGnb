@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pooyan Ghanbari
-- 👀 I’m absorbed in Python and currently learning Django
-- 🌱 I’m also interested in ML and AI too
+- 👀 I’m a newbie backend developer using django but currently trying to learn laravel!
+- 🌱 I’m also interested in ML algorithms too
 - 📫 How to reach me pnghanbari@gmail.com
 
 
