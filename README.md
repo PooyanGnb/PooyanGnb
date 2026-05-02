@@ -2,7 +2,7 @@
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left">   -->
+<p align="left">  
 <a target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
